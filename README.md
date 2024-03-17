@@ -8,8 +8,7 @@ JSSSTU-Machine Learning Laboratary 20CS67L
 
 2. Visualize the n-dimensional data using Scatter plots, box plot, heat maps, contour plots, 3D surface plots using python packages.
 
-3.
-  a) Write a program to implement the Best First Search(BFS) algorithm.
+3.a) Write a program to implement the Best First Search(BFS) algorithm.
   b) Write a program to implement the A* algorithm.
   
 4. Write a program to implement Min-Max algorithm and Alpha-beta pruning algorithm.
