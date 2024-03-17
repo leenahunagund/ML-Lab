@@ -4,9 +4,10 @@ JSSSTU-Machine Learning Laboratary 20CS67L
 
 <h3><b>List Of Programs</b></h3>
 
-<p>1. Simple python program using conditional statements, looping , performing operations such as Insert , Update, Delete, Display, Sorting and searching on Datatypes like List, Tuple, Set, Dictionary.
+<p>
+1. Simple python program using conditional statements, looping , performing operations such as Insert , Update, Delete, Display, Sorting and searching on Datatypes like List, Tuple, Set, Dictionary.
 
-2. Visualize the n-dimensional data using Scatter plots, box plot, heat maps, contour plots, 3D surface plots using python packages.
+  2. Visualize the n-dimensional data using Scatter plots, box plot, heat maps, contour plots, 3D surface plots using python packages.
 
 3.a) Write a program to implement the Best First Search(BFS) algorithm.
   b) Write a program to implement the A* algorithm.
