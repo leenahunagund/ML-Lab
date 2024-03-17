@@ -4,7 +4,7 @@ JSSSTU-Machine Learning Laboratary 20CS67L
 
 <h3><b>List Of Programs</b></h3>
 
-1. Simple python program using conditional statements, looping , performing operations such as Insert , Update, Delete, Display, Sorting and searching on Datatypes like List, Tuple, Set, Dictionary.
+<p>1. Simple python program using conditional statements, looping , performing operations such as Insert , Update, Delete, Display, Sorting and searching on Datatypes like List, Tuple, Set, Dictionary.
 
 2. Visualize the n-dimensional data using Scatter plots, box plot, heat maps, contour plots, 3D surface plots using python packages.
 
@@ -34,3 +34,4 @@ using the different distance metrics like Euclidean and Manhattan distance.
 11. Write a Program to develop simple single layer perceptron to implement AND, OR Boolean functions.
 
 12. Write a program to develop Multi-layer perceptron to implement AND-NOT, XOR Boolean functions.
+</p>
