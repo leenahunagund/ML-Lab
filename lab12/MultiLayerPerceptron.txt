@@ -1,0 +1,18 @@
+A multi-layer perceptron (MLP) is a type of artificial neural network that consists of multiple layers of neurons (nodes) organized in a feedforward manner.
+Each neuron in one layer connects with a certain weight to every neuron in the subsequent layer, without forming any cycles (i.e., it's a directed acyclic graph).
+MLPs are also known as feedforward neural networks or deep neural networks when they have multiple hidden layers.
+
+Here are the key components of a multi-layer perceptron:
+
+1. **Input Layer:** This layer consists of input neurons that receive the initial data. Each neuron in the input layer represents one feature of the input data.
+
+2. **Hidden Layers:** These are one or more layers of neurons between the input and output layers. Each neuron in a hidden layer receives input from all 
+neurons in the previous layer and produces an output which is then passed to the neurons in the subsequent layer. Hidden layers enable the network to learn complex patterns in the data.
+
+3. **Output Layer:** This layer consists of neurons that produce the final output of the network. The number of neurons in the output layer depends on the problem being solved.
+For binary classification tasks, there is typically one neuron, while for multi-class classification tasks, there are multiple neurons (one for each class).
+
+MLPs are powerful because they can approximate any continuous function to arbitrary precision given enough hidden neurons and a suitable activation function.
+However, training MLPs can be computationally expensive, and they may suffer from overfitting if not properly regularized.
+
+MLPs are commonly used in a wide range of applications, including image recognition, speech recognition, natural language processing, and many others.
