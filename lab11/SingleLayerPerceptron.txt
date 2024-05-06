@@ -1,0 +1,22 @@
+This is a Python program that implements a simple single-layer perceptron to solve the AND and OR boolean functions.
+
+The program defines a `Perceptron` class with methods for prediction (`predict`) and training (`train`).
+The `activation_function` method applies a step function, which returns 1 if the input is greater than or equal to 0, and 0 otherwise.
+
+The `train` method updates the weights and bias of the perceptron based on the error between the predicted output and the actual label, using a learning rate and a specified number of epochs.
+
+The program then creates instances of the `Perceptron` class for both the AND and OR functions, and trains them using the provided training data. 
+Finally, it prints the weights and bias before and after training for both the AND and OR perceptrons.
+
+Let me know if you have any questions about how the code works!
+
+A perceptron is the simplest form of a neural network and is a type of artificial neuron. It takes multiple binary inputs and produces a single binary output.
+The perceptron algorithm was developed by Frank Rosenblatt in 1957.
+
+Mathematically, a perceptron computes a weighted sum of its inputs and applies an activation function to the sum to produce the output. 
+The weights represent the importance of the respective inputs to the output, and the activation function determines whether the neuron should "fire" (output 1) or not (output 0) based on the weighted sum.
+
+The perceptron can be used for binary classification tasks where the output is either 0 or 1. It can learn to classify inputs into two categories by adjusting its weights based on training data.
+
+While a single perceptron can only learn linearly separable patterns, multiple perceptrons arranged in layers can learn more complex patterns,
+forming a multi-layer perceptron (MLP), which is the basis for modern neural networks.
